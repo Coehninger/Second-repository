@@ -1,0 +1,23 @@
+body {
+  background: linear-gradient(rgb(69, 80, 120), rgb(115, 135, 225));
+}
+
+h1 {
+  color: red;
+}
+p {
+  color: black;
+}
+img {
+  border-radius: 5%;
+}
+
+#super-potato-tittle {
+  color: red;
+}
+.special-tittle {
+  color: dodgerblue;
+}
+.alert-primary {
+  background-color: rgba(61, 64, 255, 1);
+}
